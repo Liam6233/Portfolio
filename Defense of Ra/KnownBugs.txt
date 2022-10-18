@@ -1,0 +1,5 @@
+﻿A list of Bugs that we know exist but have not been fixed
+List something here whenever they are encountered
+To help with debugging, draw rectangles instead of the sprites
+use Lines to see where bounds lay, below player, above floor.
+check game algorithm slides in myCourses

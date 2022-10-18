@@ -1,0 +1,22 @@
+﻿List of Tasks left. 
+>Physics Manager		DONE
+>Animation				DONE
+>Abstract GameObject	DONE
+>DrawManager			DONE
+>StaticObject
+>MainMenu				DONE
+>Button					DONE
+>DynamicObject			DONE
+>Spear					DONE
+>Button					DONE
+>Player					DONE
+>Enemy					DONE
+>PlayButton				DONE
+>ExitButton				DONE
+>EnemyManager
+>SnakeArms				DONE
+>EnemyManager			DONE
+>SnakeArms
+>Mummy
+>Locust					DONE
+Should be updated after a push

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/SuperShark/Desktop/IGME.106_DefenseOfRa/DefenseOfRa/Content/tempMenuMusic.mp3</SourceFile>
+  <SourceTime>2022-04-04T18:14:50.6133766-04:00</SourceTime>
+  <DestFile>C:/Users/SuperShark/Desktop/IGME.106_DefenseOfRa/DefenseOfRa/Content/bin/DesktopGL/tempMenuMusic.xnb</DestFile>
+  <DestTime>2022-04-05T20:57:44.9845347-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/SuperShark/Desktop/IGME.106_DefenseOfRa/DefenseOfRa/Content/bin/DesktopGL/tempMenuMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

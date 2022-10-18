@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/Arial.spritefont</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/background.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/boatEnd.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/boatMiddle.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/checkBoxBox.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/checkBoxCheck.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/clouds.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/deathScreenImage.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/debugBtnBase.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/debugBtnHover.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/DumbLocust.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/emptyRa.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/emptySprite.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/exitBtnBase.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/exitBtnHover.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/guideBtnBase.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/guideBtnHover.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/GuideSprite.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/GuideSpriteNew.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/GuideSpriteWhite.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/Logo.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/mummy.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/mummyHit.mp3</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/newBoatMiddle.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/optionsBtnBase.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/optionsBtnHover.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/platform.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playBtnBase.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playBtnHover.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playerFall.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playerHealthIcon.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/PlayerIdle.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playerRun.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playerThrow.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/playerThrust.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/pottery.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/purpleForeground.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/raBottom.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/raBox.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/raHealthIcon.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/raIdle.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/retryBtnBase.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/retryBtnHover.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/snakeArms.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/snakeDying.mp3</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/spear.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/square.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/tempLocust.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/tempMenuMusic.mp3</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/tempplayer.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/tempPlayMusic.mp3</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/thrustSound.mp3</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/UpdatedPlayerSprite.png</File>
+    <File>C:/Users/SuperShark/Desktop/Portfolio/Defense of Ra/Content/watchIcon.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>playerIdle.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>updatedPlayerSprite.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

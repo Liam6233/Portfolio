@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SuperShark\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SuperShark\\.nuget\\packages"
+    ]
+  }
+}
